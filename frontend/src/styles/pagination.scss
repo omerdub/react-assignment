@@ -1,0 +1,13 @@
+button{
+    background-color: black;
+    color: white;
+    font-size: x-large;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    border-radius: 10%;
+    margin: 1px;
+}
+
+button:disabled{
+    background-color: grey;
+    
+}
